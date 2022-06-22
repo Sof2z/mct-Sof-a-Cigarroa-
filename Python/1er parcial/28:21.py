@@ -1,0 +1,6 @@
+print("hola mundo")
+print("hi ")
+print("im sofi cigarroa")
+print("from 9D")
+print("my favorite food is bagels with cream cheese")
+print("and yesterday was my dogs birthday")
